@@ -1,0 +1,20 @@
+{
+  "appName": "BankniftyAI",
+  "appDesc": "Live banknifty trend alert by",
+  "btnText": "Follow us",
+  "appLink": "https://www.tradingai.xyz",
+  "posts": [
+    {
+      "id": 1,
+      "item": "Banknifty already took the support, now going towards 43000🚀",
+      "author": "By BNAI",
+      "datetime": "26-01-2023 11:00"
+    },
+    {
+      "id": 2,
+      "item": "Banknifty already dead leave the market now",
+      "author": "By BNAI",
+      "datetime": "26-01-2023 13:40"
+    }
+  ]
+}
